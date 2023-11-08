@@ -7,7 +7,7 @@ Life is looking for something you like.
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=一切困难都是上天发起的成长邀请函;Have a nice day~~~&center=true&size=27"> </a> </h1>
 <!--
 **zhugeqing42/zhugeqing42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
