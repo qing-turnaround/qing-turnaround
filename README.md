@@ -1,5 +1,17 @@
-### Hi there 👋
+### self-introduction
+I am  Qing, I hate writing code, but I appreciate every line of code.
+
+人生就是在寻找自己喜欢的事情.
+Life is looking for something you like.
+人生は好きなこと探しだ
+
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
+
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
 <!--
 **zhugeqing42/zhugeqing42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
