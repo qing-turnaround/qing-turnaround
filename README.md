@@ -1,5 +1,7 @@
 ### self-introduction
-I am  Qing, I hate writing code, but I appreciate every line of code.
+I am  Qing, 
+Hate life？ NO
+Change yourself？Yes😊
 
 人生就是在寻找自己喜欢的事情.
 Life is looking for something you like.
