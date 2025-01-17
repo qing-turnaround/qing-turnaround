@@ -1,35 +1,34 @@
-### Self-Introduction
+### self-introduction
+I am  Qing, 
+Hate life？ NO
+Change yourself？Yes😊
 
-I am Qing,  
-Hate life? NO  
-Change yourself? Yes😊  
-
-人生就是在寻找自己喜欢的事情.  
-Life is looking for something you like.  
+人生就是在寻找自己喜欢的事情.
+Life is looking for something you like.
 人生は好きなこと探しだ
 
-**Tags:** #GoDeveloper 
 
-### Tech Stack
+<div align="center">
+  <a href="https://blog.sunguoqi.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Have a nice day~;一切困难都是上天发起的成长邀请函!&center=true&size=27" alt="Typing SVG" />
+  </a>
+</div>
 
-![Go](https://img.shields.io/badge/Go-1.18-5272B4?style=for-the-badge&logo=go)
-![Python](https://img.shields.io/badge/Python-3.9-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F0DB4F?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-17.0-61DAFB?style=for-the-badge&logo=react)
+<div align="center"> <img src="https://metrics.lecoq.io/qing-turnaround?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
-### Projects
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=qing-turnaround&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
-| Project Name | Description | Tech Stack | Link |
-|--------------|-------------|------------|------|
-| Project A | A brief description of Project A | Go, PostgreSQL | [GitHub](https://github.com/qing-turnaround/project-a) |
-| Project B | A brief description of Project B | Python, Flask | [GitHub](https://github.com/qing-turnaround/project-b) |
+<!--
+**zhugeqing42/zhugeqing42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Contact
+Here are some ideas to get you started:
 
-[![Email](https://img.shields.io/badge/Email-qing@example.com-18A0FB?style=for-the-badge&logo=gmail)](mailto:qing@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-qing-turnaround-18A0FB?style=for-the-badge&logo=github)](https://github.com/qing-turnaround)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-qing-turnaround-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/qing-turnaround)
-
-### Let's Connect!
-
-Feel free to reach out or check out my projects. Looking forward to connecting with like-minded developers!
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
